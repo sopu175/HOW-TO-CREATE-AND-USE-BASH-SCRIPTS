@@ -1,0 +1,4 @@
+#!/bin/bash
+
+anime=('Naruto' 'One Pieace' 'Black Clover' 'Attack on title')
+echo ${anime[3]}
