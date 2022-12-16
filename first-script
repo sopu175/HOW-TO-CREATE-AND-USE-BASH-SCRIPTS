@@ -1,4 +1,9 @@
 #!/bin/bash
 
-anime=('Naruto' 'One Pieace' 'Black Clover' 'Attack on title')
-echo ${anime[3]}
+echo "My First Bash Script"
+echo I\'m a script
+
+echo 'A single quoted "string"'
+echo "A double quoted 'string'"
+
+echo -e "This string has a \nnew line"
